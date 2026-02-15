@@ -1,6 +1,10 @@
+vendor/
+.idea/
+.vscode/
+/.env
+/.DS_Store
 # Dependencies
 /vendor/
-/composer.lock
 node_modules/
 
 # IDE and editor specific files
